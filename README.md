@@ -1,8 +1,8 @@
-#  Hi, I'm Hammad Ali! 
+#  Hi, I'm Hammad Ali! 👋
 
 <br>
 
-## ️ Lead MERN Stack Developer ️
+## ️ Lead MERN Stack Developer 👨‍💻
 
 I'm a passionate full-stack developer specializing in building dynamic and scalable Web/Mobile applications using the MERN stack (MongoDB, Express, React, React Native, Node.js). I love crafting user-friendly interfaces, optimizing performance, and delivering robust backend solutions.
 
@@ -53,4 +53,4 @@ https://hammadalimughal.vercel.app <br/>
 
 ## ⚡ Fun Facts ⚡
 
-[I once fixed a major bug in a production system with a one-line code change!]
+I once fixed a major bug in a production system with a one-line code change!
