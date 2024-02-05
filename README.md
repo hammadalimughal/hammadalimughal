@@ -39,15 +39,15 @@ I'm a passionate full-stack developer specializing in building dynamic and scala
 
 ##  Projects 
 
-(https://hammadalimughal.vercel.app/portfolio)
+https://hammadalimughal.vercel.app/portfolio
 
 <br>
 
 ##  Connect with Me 
 
 https://www.linkedin.com/in/hammadali-mughal/ <br/>
-mailto:hammad19ali@gmail.com <br/>
-https://hammadalimughal.vercel.app/portfolio <br/>
+hammad19ali@gmail.com <br/>
+https://hammadalimughal.vercel.app <br/>
 
 <br>
 
