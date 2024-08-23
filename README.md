@@ -1,56 +1,26 @@
-#  Hi, I'm Hammad Ali! 👋
+<h1 align="center">Hi 👋, I'm Hammad</h1>
+<h3 align="center">Senior MERN Stack Developer | 4+ Years of Proven Success | 120+ Projects in Web & App Development</h3>
 
-<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hammadalimughal&label=Profile%20views&color=0e75b6&style=flat" alt="hammadalimughal" /> </p>
 
-## ️ Lead MERN Stack Developer 👨‍💻
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hammadalimughal" alt="hammadalimughal" /></a> </p>
 
-I'm a passionate full-stack developer specializing in building dynamic and scalable Web/Mobile applications using the MERN stack (MongoDB, Express, React, React Native, Node.js). I love crafting user-friendly interfaces, optimizing performance, and delivering robust backend solutions.
+<p align="left"> <a href="https://twitter.com/hammadalimugha4" target="blank"><img src="https://img.shields.io/twitter/follow/hammadalimugha4?logo=twitter&style=for-the-badge" alt="hammadalimugha4" /></a> </p>
 
-<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://hammadalimughal.vercel.app/" target="blank"><img align="center" src="https://images.squarespace-cdn.com/content/v1/60f116fce75c390126192409/03d66c84-f2cd-484e-b665-d0c22a24d0e1/Transparent+%282%29.png" alt="https://hammadalimughal.vercel.app/" height="30" width="30" /></a>
+<a href="https://twitter.com/hammadalimugha4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hammadalimugha4" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hammadali-mughal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hammadali-mughal" height="30" width="40" /></a>
+<a href="https://fb.com/hammadalimughal19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hammadalimughal19" height="30" width="40" /></a>
+<a href="https://instagram.com/hammadali_mughal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hammadali_mughal" height="30" width="40" /></a>
+</p>
 
-##  Skills & Technologies 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-**Frontend:**
-- React
-- Redux
-- JavaScript (ES6+)
-- HTML5
-- CSS3
-- Sass/SCSS
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hammadalimughal&show_icons=true&locale=en&layout=compact" alt="hammadalimughal" /></p>
 
-**Backend:**
-- Node.js
-- Express
-- MongoDB
-- RESTful APIs
-- Authentication and authorization
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hammadalimughal&show_icons=true&locale=en" alt="hammadalimughal" /></p>
 
-**Mobile Application:**
-- React Native
-
-**Other:**
-- Git
-- GitHub
-- Version control
-- Agile methodologies
-- Testing and debugging
-
-<br>
-
-##  Projects 
-
-https://hammadalimughal.vercel.app/portfolio
-
-<br>
-
-##  Connect with Me 
-
-https://www.linkedin.com/in/hammadali-mughal/ <br/>
-hammad19ali@gmail.com <br/>
-https://hammadalimughal.vercel.app <br/>
-
-<br>
-
-## ⚡ Fun Facts ⚡
-
-I once fixed a major bug in a production system with a one-line code change!
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hammadalimughal&" alt="hammadalimughal" /></p>
